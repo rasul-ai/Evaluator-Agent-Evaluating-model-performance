@@ -2,11 +2,11 @@
 This project automates the evaluation of machine learning model performance using Azure OpenAI GPT-4o and Autogen AgentChat. The system reads CSV files containing model metrics, analyzes the data, and determines the best-performing model based on predefined criteria.
 
 ## Features
-✅ Reads and processes model performance metrics from a CSV file.
-✅ Uses Azure OpenAI GPT-4o for intelligent analysis.
-✅ Implements Autogen AgentChat to create AI-powered agents for evaluation.
-✅ Supports Python code execution for additional analysis.
-✅ Provides automated justification for model selection with trade-off suggestions.
+1. Reads and processes model performance metrics from a CSV file.
+2. Uses Azure OpenAI GPT-4o for intelligent analysis.
+3. Implements Autogen AgentChat to create AI-powered agents for evaluation.
+4. Supports Python code execution for additional analysis.
+5. Provides automated justification for model selection with trade-off suggestions.
 
 ## Prerequisites
 Ensure you have the following installed:
