@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score,Latency,Throughput,Cost,Speed,Tokens
+GPT-3.5,0.95,0.94,0.93,0.94,120,1000,0.25,250ms,175B
+BERT-Large,0.92,0.91,0.9,0.91,150,950,0.3,300ms,340M
+T5-3B,0.93,0.92,0.91,0.92,140,980,0.28,270ms,3B
+GPT-2,0.91,0.9,0.89,0.9,160,940,0.32,320ms,1.5B
+RoBERTa-Base,0.94,0.93,0.92,0.93,130,970,0.27,260ms,125M

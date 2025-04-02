@@ -1,0 +1,7 @@
+PROVIDER,MODEL,Banking77,Civil Comments,LEDGAR,Walmart Amazon,Company match,SQuAD2.0,SciQ,CONLL 2003,Average
+OpenAI,gpt-4,0.843,0.88,0.78,0.98,0.965,0.801,0.969,0.856,0.884
+OpenAI,gpt-3.5-turbo,0.776,0.785,0.734,0.962,0.85,0.69,0.944,0.762,0.813
+Anthropic,claude-v1,0.82,0.854,0.715,0.922,0.7,0.759,0.955,0.746,0.81
+OpenAI,text-davinci-003,0.806,0.89,0.673,0.777,0.72,0.586,0.913,0.774,0.767
+Google,text-bison@001,0.775,0.87,0.558,0.949,0.946,0.781,0.947,0.623,0.806
+HuggingFace,flan-t5-xxl,0.792,0.88,0.713,0.951,0.805,0.818,0.839,0.419,0.777

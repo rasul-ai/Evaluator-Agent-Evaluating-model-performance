@@ -1,0 +1,7 @@
+autogen==0.7.3
+autogen-agentchat==0.2.40
+autogen-core==0.4.4
+autogen-ext==0.4.4
+pyautogen==0.7.3
+openai
+asyncio
